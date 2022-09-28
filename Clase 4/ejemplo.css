@@ -1,0 +1,43 @@
+h2{
+    color: blue;
+    
+}
+/*esto es un comentario en csss*/
+h1{
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    font-family: Arial;
+
+}
+p{
+    color: brown;
+}
+.destacados{
+    color: blueviolet;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+
+
+}
+#rojo{
+    width: 300px;
+    height: 400px;
+    background-color: coral    ;
+    text-align: center;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    border: 5px solid black;
+
+}
+#azul{
+    width: 300px;
+    height:300px ;
+    color: black;
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;    /*margen interno*/
+    border-right: 5px dashed red;
+}
