@@ -1,0 +1,36 @@
+.caja{
+    background-color: aquamarine ;
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+    box-shadow: 0px 0px 10px black;
+
+}
+.caja2{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    padding: 10px;
+    border-radius: 0px 30px;
+}
+.caja3{
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    border-radius: 0px 200px 200px 200px;
+    -webkit-border-radius: 0px 200px 200px 200px;
+    -moz-border-radius: 0px 200px 200px 200px;
+    background: #9ec9dc;
+    border: 4px outset #f88875;
+
+}
+.texto{
+    background-color: yellowgreen;
+    column-count: 5;
+    column-gap: 50px;
+}
+.texto p{
+margin-top: 0px;
+}

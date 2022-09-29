@@ -1,0 +1,11 @@
+/* font-family: 'Courier Prime', monospace;
+font-family: 'Dancing Script', cursive;
+font-family: 'Nunito', sans-serif; */
+h2{
+    color: red;
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
