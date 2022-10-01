@@ -1,0 +1,14 @@
+.contenedor{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+.item{
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    font-size: 25px;
+}
